@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58568637120",
+    "project_id": "loyalty-app-cb417",
+    "storage_bucket": "loyalty-app-cb417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58568637120:android:9e265012eb66d68c358b25",
+        "android_client_info": {
+          "package_name": "com.antikode.loyalty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58568637120-ggp6jkj8q4nglrj6m31pqmjse6tp4rhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6_DoS0PLL_EfG64VMVfml-J7rbX-wsVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58568637120-ggp6jkj8q4nglrj6m31pqmjse6tp4rhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
